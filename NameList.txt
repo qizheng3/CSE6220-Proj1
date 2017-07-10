@@ -1,0 +1,15 @@
+Team member:
+
+Wenqing Shen (wshen35)
+Qi Zheng (qzheng61)
+
+Contribution 				Wenqing Shen	Qi Zheng
+
+1. Design the parallel algorithm 	50%		50%
+2. Implement the parallel algorithm	50%		50%
+3. Design the sequential algorithm 	50%		50%
+4. Implement the sequential algorithm	50%		50%
+5. Generate input files			50%		50%
+6. Running the code on cluster		50%		50%
+7. Write the report			50%		50%
+
